@@ -5,7 +5,7 @@ const LoginSection = () => {
     const logout = useLogout()
 
     return (
-        <div>
+        <div class="box1">
             <button onClick={login}>
                 Login
             </button>
